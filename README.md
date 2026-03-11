@@ -92,8 +92,8 @@ dn: uid=testuser,ou=people,dc=planetexpress,dc=com
 uid: testuser
 cn: Test User
 sn: User
-mail: testuser@planetexpress.com
-userPassword: testpass123
+mail: testuser@test.com
+userPassword: testpass
 ```
 
 ### `newuser.ldif`
@@ -105,8 +105,8 @@ dn: uid=newuser,ou=people,dc=planetexpress,dc=com
 uid: mike
 cn: New User
 sn: User
-mail: mike@planetexpress.com
-userPassword: N@iAfg9M
+mail: test@test.com
+userPassword: test
 ```
 
 ## Important Directory Structure Note
